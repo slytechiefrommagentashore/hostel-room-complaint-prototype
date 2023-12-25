@@ -9,6 +9,9 @@ New issue registration page :
 ![WhatsApp Image 2023-07-25 at 22 32 02](https://github.com/slytechiefrommagentashore/hostel-room-complaint-prototype/assets/97241435/32e45eaa-6b2a-4993-8dfb-1f9b2b525dfe)
 Unsolved issues page: 
 ![image](https://github.com/slytechiefrommagentashore/hostel-room-complaint-prototype/assets/97241435/32694c09-eea8-400a-a7b6-7111ca1737b6)
+
+
+
 Technologies used 
 xml,java,sql
 Credits

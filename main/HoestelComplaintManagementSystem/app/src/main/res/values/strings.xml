@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HostelComplaintManagementSystem</string>
+    <string name="button">Button</string>
+    <string name="electrician">ELECTRICIAN</string>
+    <string name="plumber">PLUMBER</string>
+    <string name="furniture">FURNITURE</string>
+    <string name="rowater">ROWATER</string>
+    <string name="solved">SOLVED</string>
+    <string name="newproblem">NEWPROBLEM</string>
+    <string name="unsolved">UNSOLVED</string>
+    <string name="name">NAME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="flatnumber">FLATNUMBER</string>
+    <string name="mobilenumber">MOBILENUMBER</string>
+    <string name="issue">ISSUE</string>
+    <string name="furniture1">FURNITURE</string>
+    <string name="plumber2">PLUMBER</string>
+    <string name="rowater2">ROWATER</string>
+    <string name="electrician2">ELECTRICIAN</string>
+    <string name="scrollview">Scrollview</string>
+</resources>
